@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "Gun": 353,
+  "Name": "Maple Bow",
+  "Width": 841,
+  "Height": 222,
+  "Layers": [
+    {
+      "Hook": "Base",
+      "Id": 0,
+      "File": "Base.png",
+      "X": 329,
+      "Y": 42,
+      "Width": 495,
+      "Height": 86
+    },
+    {
+      "Hook": "Grip",
+      "Id": 8,
+      "File": "Grip_8.png",
+      "X": 433,
+      "Y": 54,
+      "Width": 28,
+      "Height": 28
+    },
+    {
+      "Hook": "Grip",
+      "Id": 143,
+      "File": "Grip_143.png",
+      "X": 433,
+      "Y": 29,
+      "Width": 27,
+      "Height": 79
+    },
+    {
+      "Hook": "Grip",
+      "Id": 145,
+      "File": "Grip_145.png",
+      "X": 362,
+      "Y": 55,
+      "Width": 127,
+      "Height": 26
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 151,
+      "File": "Tactical_151.png",
+      "X": 395,
+      "Y": 81,
+      "Width": 48,
+      "Height": 24
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 152,
+      "File": "Tactical_152.png",
+      "X": 395,
+      "Y": 81,
+      "Width": 48,
+      "Height": 24
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 347,
+      "File": "Magazine_347.png",
+      "X": 509,
+      "Y": 14,
+      "Width": 24,
+      "Height": 202
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 348,
+      "File": "Magazine_348.png",
+      "X": 509,
+      "Y": 14,
+      "Width": 24,
+      "Height": 202
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 350,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 351,
+      "File": "Magazine_351.png",
+      "X": 509,
+      "Y": 14,
+      "Width": 24,
+      "Height": 202
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 352,
+      "File": "Magazine_352.png",
+      "X": 509,
+      "Y": 14,
+      "Width": 24,
+      "Height": 202
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 354,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 477,
+      "File": "Barrel_477.png",
+      "X": 468,
+      "Y": 42,
+      "Width": 122,
+      "Height": 52
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 1007,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 1008,
+      "File": "Tactical_1008.png",
+      "X": 395,
+      "Y": 81,
+      "Width": 48,
+      "Height": 24
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 1209,
+      "File": "Magazine_1209.png",
+      "X": 509,
+      "Y": 7,
+      "Width": 32,
+      "Height": 209
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 1438,
+      "File": "Tactical_1438.png",
+      "X": 18,
+      "Y": 81,
+      "Width": 426,
+      "Height": 33
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 3034,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 3102,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Grip",
+      "Id": 3103,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    }
+  ]
+}

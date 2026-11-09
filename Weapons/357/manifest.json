@@ -1,0 +1,774 @@
+{
+  "Version": 1,
+  "Gun": 357,
+  "Name": "Compound Bow",
+  "Width": 516,
+  "Height": 601,
+  "Layers": [
+    {
+      "Hook": "Base",
+      "Id": 0,
+      "File": "Base.png",
+      "X": 10,
+      "Y": 409,
+      "Width": 496,
+      "Height": 117
+    },
+    {
+      "Hook": "Sight",
+      "Id": 5,
+      "File": "Sight_5.png",
+      "X": 170,
+      "Y": 189,
+      "Width": 19,
+      "Height": 237
+    },
+    {
+      "Hook": "Grip",
+      "Id": 8,
+      "File": "Grip_8.png",
+      "X": 115,
+      "Y": 426,
+      "Width": 27,
+      "Height": 28
+    },
+    {
+      "Hook": "Sight",
+      "Id": 19,
+      "File": "Sight_19.png",
+      "X": 168,
+      "Y": 183,
+      "Width": 20,
+      "Height": 242
+    },
+    {
+      "Hook": "Sight",
+      "Id": 21,
+      "File": "Sight_21.png",
+      "X": 149,
+      "Y": 260,
+      "Width": 56,
+      "Height": 169
+    },
+    {
+      "Hook": "Sight",
+      "Id": 22,
+      "File": "Sight_22.png",
+      "X": 162,
+      "Y": 358,
+      "Width": 31,
+      "Height": 68
+    },
+    {
+      "Hook": "Sight",
+      "Id": 102,
+      "File": "Sight_102.png",
+      "X": 170,
+      "Y": 144,
+      "Width": 15,
+      "Height": 280
+    },
+    {
+      "Hook": "Sight",
+      "Id": 110,
+      "File": "Sight_110.png",
+      "X": 158,
+      "Y": 193,
+      "Width": 39,
+      "Height": 240
+    },
+    {
+      "Hook": "Sight",
+      "Id": 114,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Sight",
+      "Id": 118,
+      "File": "Sight_118.png",
+      "X": 170,
+      "Y": 231,
+      "Width": 19,
+      "Height": 195
+    },
+    {
+      "Hook": "Sight",
+      "Id": 124,
+      "File": "Sight_124.png",
+      "X": 162,
+      "Y": 277,
+      "Width": 31,
+      "Height": 119
+    },
+    {
+      "Hook": "Sight",
+      "Id": 128,
+      "File": "Sight_128.png",
+      "X": 170,
+      "Y": 326,
+      "Width": 15,
+      "Height": 6
+    },
+    {
+      "Hook": "Sight",
+      "Id": 131,
+      "File": "Sight_131.png",
+      "X": 167,
+      "Y": 202,
+      "Width": 21,
+      "Height": 234
+    },
+    {
+      "Hook": "Sight",
+      "Id": 134,
+      "File": "Sight_134.png",
+      "X": 162,
+      "Y": 261,
+      "Width": 35,
+      "Height": 181
+    },
+    {
+      "Hook": "Grip",
+      "Id": 143,
+      "File": "Grip_143.png",
+      "X": 114,
+      "Y": 401,
+      "Width": 28,
+      "Height": 79
+    },
+    {
+      "Hook": "Grip",
+      "Id": 145,
+      "File": "Grip_145.png",
+      "X": 43,
+      "Y": 427,
+      "Width": 128,
+      "Height": 26
+    },
+    {
+      "Hook": "Sight",
+      "Id": 146,
+      "File": "Sight_146.png",
+      "X": 158,
+      "Y": 362,
+      "Width": 39,
+      "Height": 58
+    },
+    {
+      "Hook": "Sight",
+      "Id": 147,
+      "File": "Sight_147.png",
+      "X": 167,
+      "Y": 396,
+      "Width": 21,
+      "Height": 20
+    },
+    {
+      "Hook": "Sight",
+      "Id": 148,
+      "File": "Sight_148.png",
+      "X": 160,
+      "Y": 345,
+      "Width": 39,
+      "Height": 81
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 151,
+      "File": "Tactical_151.png",
+      "X": 121,
+      "Y": 407,
+      "Width": 16,
+      "Height": 48
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 152,
+      "File": "Tactical_152.png",
+      "X": 113,
+      "Y": 407,
+      "Width": 32,
+      "Height": 48
+    },
+    {
+      "Hook": "Sight",
+      "Id": 153,
+      "File": "Sight_153.png",
+      "X": 159,
+      "Y": 260,
+      "Width": 45,
+      "Height": 169
+    },
+    {
+      "Hook": "Sight",
+      "Id": 296,
+      "File": "Sight_296.png",
+      "X": 153,
+      "Y": 260,
+      "Width": 50,
+      "Height": 169
+    },
+    {
+      "Hook": "Sight",
+      "Id": 299,
+      "File": "Sight_299.png",
+      "X": 167,
+      "Y": 208,
+      "Width": 21,
+      "Height": 228
+    },
+    {
+      "Hook": "Sight",
+      "Id": 302,
+      "File": "Sight_302.png",
+      "X": 158,
+      "Y": 260,
+      "Width": 40,
+      "Height": 169
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 347,
+      "File": "Magazine_347.png",
+      "X": 190,
+      "Y": 386,
+      "Width": 25,
+      "Height": 202
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 348,
+      "File": "Magazine_348.png",
+      "X": 190,
+      "Y": 386,
+      "Width": 25,
+      "Height": 202
+    },
+    {
+      "Hook": "Sight",
+      "Id": 349,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 350,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 351,
+      "File": "Magazine_351.png",
+      "X": 190,
+      "Y": 386,
+      "Width": 25,
+      "Height": 202
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 352,
+      "File": "Magazine_352.png",
+      "X": 190,
+      "Y": 386,
+      "Width": 25,
+      "Height": 202
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 354,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Sight",
+      "Id": 358,
+      "File": "Sight_358.png",
+      "X": 180,
+      "Y": 422,
+      "Width": 7,
+      "Height": 3
+    },
+    {
+      "Hook": "Sight",
+      "Id": 364,
+      "File": "Sight_364.png",
+      "X": 166,
+      "Y": 189,
+      "Width": 23,
+      "Height": 237
+    },
+    {
+      "Hook": "Sight",
+      "Id": 475,
+      "File": "Sight_475.png",
+      "X": 173,
+      "Y": 193,
+      "Width": 9,
+      "Height": 237
+    },
+    {
+      "Hook": "Sight",
+      "Id": 476,
+      "File": "Sight_476.png",
+      "X": 153,
+      "Y": 270,
+      "Width": 50,
+      "Height": 164
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 477,
+      "File": "Barrel_477.png",
+      "X": 150,
+      "Y": 414,
+      "Width": 122,
+      "Height": 51
+    },
+    {
+      "Hook": "Sight",
+      "Id": 486,
+      "File": "Sight_486.png",
+      "X": 167,
+      "Y": 193,
+      "Width": 21,
+      "Height": 236
+    },
+    {
+      "Hook": "Sight",
+      "Id": 521,
+      "File": "Sight_521.png",
+      "X": 170,
+      "Y": 285,
+      "Width": 15,
+      "Height": 156
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1001,
+      "File": "Sight_1001.png",
+      "X": 168,
+      "Y": 254,
+      "Width": 19,
+      "Height": 171
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1004,
+      "File": "Sight_1004.png",
+      "X": 160,
+      "Y": 364,
+      "Width": 35,
+      "Height": 12
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 1007,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 1008,
+      "File": "Tactical_1008.png",
+      "X": 113,
+      "Y": 407,
+      "Width": 32,
+      "Height": 48
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1019,
+      "File": "Sight_1019.png",
+      "X": 160,
+      "Y": 202,
+      "Width": 35,
+      "Height": 237
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1025,
+      "File": "Sight_1025.png",
+      "X": 170,
+      "Y": 351,
+      "Width": 18,
+      "Height": 74
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1028,
+      "File": "Sight_1028.png",
+      "X": 169,
+      "Y": 247,
+      "Width": 21,
+      "Height": 179
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1038,
+      "File": "Sight_1038.png",
+      "X": 169,
+      "Y": 209,
+      "Width": 17,
+      "Height": 215
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1043,
+      "File": "Sight_1043.png",
+      "X": 161,
+      "Y": 252,
+      "Width": 29,
+      "Height": 185
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1201,
+      "File": "Sight_1201.png",
+      "X": 148,
+      "Y": 260,
+      "Width": 69,
+      "Height": 169
+    },
+    {
+      "Hook": "Magazine",
+      "Id": 1209,
+      "File": "Magazine_1209.png",
+      "X": 190,
+      "Y": 379,
+      "Width": 32,
+      "Height": 209
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1301,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1363,
+      "File": "Sight_1363.png",
+      "X": 160,
+      "Y": 318,
+      "Width": 35,
+      "Height": 115
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1367,
+      "File": "Sight_1367.png",
+      "X": 171,
+      "Y": 319,
+      "Width": 13,
+      "Height": 72
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1370,
+      "File": "Sight_1370.png",
+      "X": 168,
+      "Y": 411,
+      "Width": 19,
+      "Height": 8
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1376,
+      "File": "Sight_1376.png",
+      "X": 170,
+      "Y": 276,
+      "Width": 15,
+      "Height": 146
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1378,
+      "File": "Sight_1378.png",
+      "X": 167,
+      "Y": 259,
+      "Width": 21,
+      "Height": 147
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1380,
+      "File": "Sight_1380.png",
+      "X": 169,
+      "Y": 214,
+      "Width": 17,
+      "Height": 184
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1383,
+      "File": "Sight_1383.png",
+      "X": 169,
+      "Y": 183,
+      "Width": 17,
+      "Height": 237
+    },
+    {
+      "Hook": "Tactical",
+      "Id": 1438,
+      "File": "Tactical_1438.png",
+      "X": 125,
+      "Y": 67,
+      "Width": 8,
+      "Height": 389
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1442,
+      "File": "Sight_1442.png",
+      "X": 158,
+      "Y": 370,
+      "Width": 39,
+      "Height": 54
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1448,
+      "File": "Sight_1448.png",
+      "X": 168,
+      "Y": 268,
+      "Width": 19,
+      "Height": 155
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1478,
+      "File": "Sight_1478.png",
+      "X": 168,
+      "Y": 198,
+      "Width": 19,
+      "Height": 184
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1482,
+      "File": "Sight_1482.png",
+      "X": 168,
+      "Y": 247,
+      "Width": 19,
+      "Height": 154
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1486,
+      "File": "Sight_1486.png",
+      "X": 165,
+      "Y": 264,
+      "Width": 25,
+      "Height": 173
+    },
+    {
+      "Hook": "Sight",
+      "Id": 1489,
+      "File": "Sight_1489.png",
+      "X": 169,
+      "Y": 189,
+      "Width": 20,
+      "Height": 237
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3003,
+      "File": "Sight_3003.png",
+      "X": 169,
+      "Y": 58,
+      "Width": 18,
+      "Height": 367
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3009,
+      "File": "Sight_3009.png",
+      "X": 168,
+      "Y": 12,
+      "Width": 20,
+      "Height": 424
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3024,
+      "File": "Sight_3024.png",
+      "X": 174,
+      "Y": 269,
+      "Width": 7,
+      "Height": 154
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3027,
+      "File": "Sight_3027.png",
+      "X": 170,
+      "Y": 159,
+      "Width": 15,
+      "Height": 265
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 3034,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3037,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3042,
+      "File": "Sight_3042.png",
+      "X": 167,
+      "Y": 191,
+      "Width": 21,
+      "Height": 234
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3044,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3046,
+      "File": "Sight_3046.png",
+      "X": 169,
+      "Y": 25,
+      "Width": 20,
+      "Height": 314
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3050,
+      "File": "Sight_3050.png",
+      "X": 173,
+      "Y": 197,
+      "Width": 15,
+      "Height": 228
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3053,
+      "File": "Sight_3053.png",
+      "X": 166,
+      "Y": 101,
+      "Width": 23,
+      "Height": 325
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3073,
+      "File": "Sight_3073.png",
+      "X": 153,
+      "Y": 225,
+      "Width": 47,
+      "Height": 216
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3074,
+      "File": "Sight_3074.png",
+      "X": 158,
+      "Y": 289,
+      "Width": 44,
+      "Height": 170
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3089,
+      "File": "Sight_3089.png",
+      "X": 153,
+      "Y": 323,
+      "Width": 49,
+      "Height": 161
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3096,
+      "File": "Sight_3096.png",
+      "X": 162,
+      "Y": 258,
+      "Width": 31,
+      "Height": 142
+    },
+    {
+      "Hook": "Barrel",
+      "Id": 3102,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Grip",
+      "Id": 3103,
+      "File": null,
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3109,
+      "File": "Sight_3109.png",
+      "X": 167,
+      "Y": 108,
+      "Width": 22,
+      "Height": 317
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3112,
+      "File": "Sight_3112.png",
+      "X": 166,
+      "Y": 393,
+      "Width": 23,
+      "Height": 14
+    },
+    {
+      "Hook": "Sight",
+      "Id": 3114,
+      "File": "Sight_3114.png",
+      "X": 158,
+      "Y": 253,
+      "Width": 39,
+      "Height": 160
+    }
+  ]
+}
